@@ -1,2 +1,10 @@
 # cfdydns
-Cloudflare dydns pythoh thing
+Cloudflare dydns python updater
+
+## Setup
+* Install pip req's (`pip3 install -r requirements.txt`)
+* Make a cloudflare api token, put in a file called `.secret`
+* Edit `sync.py` to add domains
+
+## Run
+`python3 sync.py`
