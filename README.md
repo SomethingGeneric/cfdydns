@@ -8,3 +8,7 @@ Cloudflare dydns python updater
 
 ## Run
 `python3 sync.py`
+
+
+# This project has moved:
+[GitLab Repository](https://gitlab.mattcompton.dev/matt/cfdydns)
